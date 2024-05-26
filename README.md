@@ -26,7 +26,7 @@ Default using GPU 0. One can also choosing GPUs by specify CUDA_VISIBLE_DEVICES
 python tools/train.py configs/EfficientSCI_plus_plus/efficientsci_plus_plus_base.py
 ```
 
-## Testing EfficientSCI on Grayscale Simulation Dataset 
+## Testing EfficientSCI++ on Grayscale Simulation Dataset 
 Specify the path of weight parameters, then launch 6 benchmark test in grayscale simulation dataset by executing the statement below.
 
 ```
