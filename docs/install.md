@@ -29,10 +29,10 @@ pip install torch torchvision torchaudio -i https://pypi.tuna.tsinghua.edu.cn/si
 >>torch.cuda.is_availble()
 #Get "True" when pytorch (GPU Version) successfully installed 
 ```
-### EfficientSCI Installation
+### EfficientSCI++ Installation
 
 ```
-# Download EfficientSCI Code
+# Download EfficientSCI++ Code
 git clone https://github.com/mcao92/EfficientSCI-plus-plus.git
 
 #Install releative packages
