@@ -7,7 +7,7 @@ Miao Cao, Lishun Wang, Mingyu Zhu and Xin Yuan
 <hr />
 
 ## Installation
-Please see the [Installation Manual](docs/install.md) for EfficientSCI Installation. 
+Please see the [Installation Manual](docs/install.md) for EfficientSCI++ Installation. 
 
 ## Training 
 Support multi GPUs and single GPU training efficiently. First download DAVIS 2017 dataset from [DAVIS website](https://davischallenge.org/), then modify *data_root* value in *configs/\_base_/davis.py* file, make sure *data_root* link to your training dataset path.
