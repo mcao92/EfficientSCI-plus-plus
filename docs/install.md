@@ -33,8 +33,8 @@ pip install torch torchvision torchaudio -i https://pypi.tuna.tsinghua.edu.cn/si
 
 ```
 # Download EfficientSCI Code
-git clone https://github.com/ucaswangls/EfficientSCI.git
+git clone https://github.com/mcao92/EfficientSCI-plus-plus.git
 
 #Install releative packages
-cd EfficientSCI
+cd EfficientSCI_plus_plus
 pip install -r requirements.txt
