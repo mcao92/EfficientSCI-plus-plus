@@ -39,4 +39,4 @@ eval=dict(
     interval=1
 )
 
-checkpoints="checkpoints/efficientsci_base.pth"
+checkpoints="checkpoints/efficientsci_plus_plus_base.pth"
