@@ -1,4 +1,4 @@
-# Hybrid CNN-Transformer Architecturefor Efficient Large-ScaleVideo Snapshot CompressiveImaging (IJCV 2024)
+# Hybrid CNN-Transformer Architecturefor Efficient Large-ScaleVideo Snapshot Compressive Imaging (IJCV 2024)
 Miao Cao, Lishun Wang, Mingyu Zhu and Xin Yuan
 
 <hr />
