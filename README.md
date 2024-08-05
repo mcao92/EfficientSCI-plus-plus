@@ -9,9 +9,9 @@ Miao Cao, Lishun Wang, Mingyu Zhu and Xin Yuan
 ## Network Architecture
 ![Illustration of EffcientSCI++](/figure/network.png)
 
-<center>
+<div align=center>
   <img src="/figure/cformer.png" alt="Illustration of cformer" width="400" height="310">
-</center>
+</div>
 
 ## Installation
 Please see the [Installation Manual](docs/install.md) for EfficientSCI++ Installation. 
