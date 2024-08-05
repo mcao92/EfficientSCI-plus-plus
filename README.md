@@ -1,4 +1,4 @@
-# Hybrid CNN-Transformer Architecturefor Efficient Large-ScaleVideo Snapshot CompressiveImaging (IJCV 2024)
+# Hybrid CNN-Transformer Architecturefor Efficient Large-ScaleVideo Snapshot Compressive Imaging (IJCV 2024)
 Miao Cao, Lishun Wang, Mingyu Zhu and Xin Yuan
 
 <hr />
@@ -32,6 +32,8 @@ Specify the path of weight parameters, then launch 6 benchmark test in grayscale
 ```
 python tools/test.py configs/EfficientSCI_plus_plus/efficientsci_plus_plus_base.py --weights=checkpoints/efficientsci_plus_plus_base.pth
 ```
+
+Please contact me via caomiao92@gmail.com for the real testing datasets with continuous compression ratio ranging from 10 to 50.
 
 ## Citation
 

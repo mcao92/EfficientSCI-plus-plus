@@ -207,7 +207,7 @@ class EfficientSCI_plus_plus(nn.Module):
             x = self.bayer_init(y,Phi,Phi_s)
         else:
             meas_re = torch.div(y, Phi_s)
-            meas_re = torch.unsqueeze(meas_re, 1)
+            # meas_re = torch.unsqueeze(meas_re, 1)
             maskt = Phi.mul(meas_re)
             x = meas_re + maskt
             x = x.unsqueeze(1)
