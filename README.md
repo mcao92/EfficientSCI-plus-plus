@@ -40,6 +40,13 @@ Specify the path of weight parameters, then launch 6 benchmark test in grayscale
 python tools/test.py configs/EfficientSCI_plus_plus/efficientsci_plus_plus_base.py --weights=checkpoints/efficientsci_plus_plus_base.pth
 ```
 
+# Reconstruction results of the real datasets
+
+|             Color Real Dataset              |              Gray-scale Real Dataset            |   
+| :-----------------------------: | :------------------------------: | 
+| <img src="./figure/color_real.gif"  height=300 width=300> | <img src="./figure/gray_real.gif" width=300 height=300> 
+
+
 Please contact me via caomiao92@gmail.com for the real testing datasets with continuous compression ratio ranging from 10 to 50.
 
 ## Citation
