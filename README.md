@@ -50,7 +50,7 @@ python tools/test.py configs/EfficientSCI_plus_plus/efficientsci_plus_plus_base.
 Please contact me via caomiao92@gmail.com for the real testing datasets with continuous compression ratio ranging from 10 to 50.
 
 ## Citation
-
+If our code or models help your work, please cite our [paper](https://link.springer.com/article/10.1007/s11263-024-02101-y):
 ```
 @article{cao2024hybrid,
   title={Hybrid CNN-Transformer Architecture for Efficient Large-Scale Video Snapshot Compressive Imaging},
