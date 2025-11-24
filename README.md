@@ -46,8 +46,8 @@ python tools/test.py configs/EfficientSCI_plus_plus/efficientsci_plus_plus_base.
 | :-----------------------------: | :------------------------------: | 
 | <img src="./figure/color_real.gif"  height=300 width=300> | <img src="./figure/gray_real.gif" width=300 height=300> 
 
-
-Please contact me via caomiao92@gmail.com for the real testing datasets with continuous compression ratio ranging from 10 to 50.
+# Reconstruction results of the real datasets
+https://github.com/mcao92/Video_SCI_Datasets
 
 ## Citation
 If our code or models help your work, please cite our [paper](https://link.springer.com/article/10.1007/s11263-024-02101-y):
